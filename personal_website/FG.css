@@ -1,0 +1,17 @@
+body{
+    background-color: #054071e5;
+}
+.main_div{
+    background-color: #403f3f;
+    color: #FF5A5F;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-weight: bolder;
+}
+
+#profile{
+    align-content: left;
+    width:95px;
+    height:88px;
+}
